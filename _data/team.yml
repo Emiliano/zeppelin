@@ -58,3 +58,13 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 42
+  name: "Erick"
+  surname: "Emiliano"
+  title: "O fodao"
+  thumbnailUrl: Erick.jpg
+  fodao: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ErickEmiliano"}
+    - {name: "site", link: "http://erick.online"}
