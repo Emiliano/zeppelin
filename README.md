@@ -1,5 +1,5 @@
 # Project Zeppelin / GDG DevFest 2014 site template
-
+## Era o projeto do site pra BSides Latam, movi pra o próprio repositorio
 ### About 
 Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes. 
 
