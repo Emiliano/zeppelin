@@ -56,8 +56,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "BSides <typeout> 2016"
-eventDate: "Junho, 2016"
+heroTitle: "BSides <typeout> Latam 2016" #"BSides <typeout> 2016"
+eventDate: "11 e 12 de Junho, 2016"
 typeoutTextValues: '"Latam", "São Paulo", "Bolivia", "Latam", "Chile", "Colombia", "Latam", "SP", "Mexico", "Peru", "Porto Rico"'
 typeoutFallback: "Latam"
 heroButtons:
