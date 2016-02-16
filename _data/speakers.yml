@@ -65,3 +65,18 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 8
+  name: "Erick"
+  surname: "Emiliano"
+  company: "Garoa Hacker Clube"
+  title: "Qualquer coisa aê"
+  bio: "Enquanto não tem palestrante de verdade aqui, me coloco a disposilçao pq sou mais bonito que Occaecat eram laboris litteris do o o fore doctrina. Quamquam veniam velit Quae expetendis hic iudicem. Dolor cernantur ullamco. Voluptate magna malis" 
+  thumbnailUrl: DarthErick.jpg
+  rockstar: true
+  ribbon:
+#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ErickEmiliano42"}
+    - {name: "site", link: "http://erick.online/"}
+    - {name: "Github", link: "https://github.com/Emiliano/"}
