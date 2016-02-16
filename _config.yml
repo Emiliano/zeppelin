@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "BSides Latam 2016"
 email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+description: "BSidesLatam is a one-in-a-half-day conference on information security and hacker culture"
 baseurl: "/zeppelin"
 url: "http://emiliano.github.io"
 permalink: "/blog/:title"
