@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "BSides <typeout> 2016"
 eventDate: "Junho, 2016"
-typeoutTextValues: '"", "São Paulo", "Bolivia", "Chile", "Colombia", "SP", "Mexico", "Peru", "Porto Rico"'
+typeoutTextValues: '"Latam", "São Paulo", "Bolivia", "Latam", "Chile", "Colombia", "Latam", "SP", "Mexico", "Peru", "Porto Rico"'
 typeoutFallback: "Latam"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "CFP"}
@@ -74,13 +74,13 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "500", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "127", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "-80", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "5", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Novidades"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
